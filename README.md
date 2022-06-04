@@ -1,6 +1,6 @@
 # Luminous
 A injection minecraft cheat using jvm attach api  
-Website: https://lumi.getfdp.today
+Website: https://deletefdp.today
 
 ## Build
 We used a thing called ```Wrapper``` to make development easier, so you need to generate the wrappers for your workspace.
